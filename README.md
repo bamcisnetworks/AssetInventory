@@ -1,1 +1,1 @@
-# ActiveDirectoryStig
+# AssetInventory
